@@ -1,0 +1,72 @@
+.pokebola{
+  width: 5rem;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+}
+
+.Blanco{
+    width: 20%;
+    height: 5rem;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+}
+
+.contenido{
+    width: 150%;
+    height: 8rem;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+  }
+
+.aside {
+  width: 8%;
+  height: 15rem;
+  background-color: pink;
+display: flex;
+}
+
+.section {
+    width: 35%;
+    height: 15rem;
+    background-color: plum;
+display: flex;
+flex-direction: row;
+}
+
+.section div{
+  width: 30%;
+  height: 13rem;
+  background-color: palegoldenrod;
+  margin: 1.5%;
+  flex-direction: row;
+}
+
+.Planta{
+  width: 10%;
+  height: 10rem;
+  display: flex;
+  flex-direction: row;
+}
+
+.Pikachu{
+  width: 10%;
+  height: 10rem;
+  display: flex;
+  flex-direction: row;
+}
+
+.Dragon {
+  width: 10%;
+  height: 10rem;
+  display: flex;
+  flex-direction: row;
+}
+
+.correo {
+  width: 64.5%;
+  height: 10rem;
+  background-color: palevioletred;
+}
